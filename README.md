@@ -1,11 +1,11 @@
 # 📖 How to Write a Professional README
 
-Welcome! In this tutorial i would be walking you through step-by-step on writting a professional README.md file and understanding the markdown syntax used in writing the README.
+Welcome! In this tutorial i would be walking you through step-by-step on writting a professional README.md file and understanding the markdown formatting syntax used in writing the README.
 
 ## Table of Contents
 - [💡 Why write a README?](#intro)
 - [🛠️ Prerequisites](#prep)
-- [📚 Understand the Markdown syntax](#step1)
+- [📚 Understand Markdown Formatting Syntax](#step1)
 - [📝 Write your README.md file](#step2)
 - [Conclusion](#end)
 
@@ -13,7 +13,7 @@ Welcome! In this tutorial i would be walking you through step-by-step on writtin
 ## 💡 Why write a README?
 A README is a text documentation that functions as a Overview (front door) explaining what your project is all about. It helps visitors understand how your software works before going into the actual files and why it matters. 
 
-You can write and deploy your README.md file with the project using a local directory, a terminal and git or you can just create one here on GitHub.
+You can write and deploy your README.md file with the project using a local directory, a terminal, and git OR you can just create one here on GitHub.
 
 <a id="prep"></a>
 ## 🛠️ Prerequisites
@@ -23,12 +23,20 @@ To create a README some tools you will need are:
 - Git(A version control system) and a terminal.
 
 <a id="step1"></a>
-## 📚 Understand the Markdown syntax
+## 📚 Understand Markdown Formatting Syntax
+| Element | Syntax | Description |
+| ----------- | ----------- | ----------- |
+| Headings      | Title       | ----------- |
+| Paragraph   | Text        | ----------- |
+| Paragraph   | Text        | ----------- |
+| Paragraph   | Text        | ----------- |
+| Paragraph   | Text        | ----------- |
 
+  > For more markdown formatting syntax check out [CHEAT-SHEET](https://www.markdownguide.org/cheat-sheet)
 
 <a id="step2"></a>
 ## 📝 Write your README.md file
-
+Now create and add content to your README.md file using the markdown formatting syntax you learnt.
 
 <a id="end"></a>
 ## Conclusion

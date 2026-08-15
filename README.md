@@ -29,18 +29,18 @@ To create a README some tools you will need are:
 
 Below are some major markdown formatting syntax and their descriptions.
 
-| Element | Syntax | Description |
-| ----------- | ----------- | ----------- |
-| Headings      | Title | ----------- |
-| Bold   | Text        | ----------- |
-| Italic   | Text        | ----------- |
-| Link   | Text        | ----------- |
-| Image   | Text        | ----------- |
-| Code   | Text        | ----------- |
-| Code Block   | Text        | ----------- |
-| Ordered list   | Text        | ----------- |
-| Unordered list   | Text        | ----------- |
-| Horizontal Divider   | Text        | ----------- |
+| Element | Syntax | Description | Output |
+| ----------- | ----------- | ----------- | ----------- |
+| Headings | `# Heading 1` to `###### Heading 6` | Use 1–6 `#` symbols before text; more `#` = smaller heading | # Heading 1 |
+| Bold | `**text**` or `__text__` | Wrap text in two asterisks or underscores to make it bold | **text** |
+| Italic | `*text*` or `_text_` | Wrap text in one asterisk or underscore to italicize it | *text* |
+| Link | `[link text](https://example.com)` | Square brackets hold the display text, parentheses hold the URL | [link text](https://example.com) |
+| Image | `![alt text](image-url.png)` | Same as a link but with a `!` in front; alt text shows if the image fails to load | 🖼️ (renders the image) |
+| Code | `` `code` `` | Wrap text in single backticks for inline code | `code` |
+| Code Block | ```` ```code block``` ```` | Wrap text in triple backticks to format as a block; add a language name after the first set for syntax highlighting | ```code block``` |
+| Ordered list | `1. Item one` `2. Item two` | Start each line with a number followed by a period | 1. Item one <br> 2. Item two |
+| Unordered list | `- Item` or `* Item` | Start each line with a hyphen or asterisk | - Item |
+| Horizontal Divider | `---` or `***` | Three or more hyphens/asterisks on their own line create a horizontal rule | --- ||
 
   > For more markdown formatting syntax check out [CHEAT-SHEET](https://www.markdownguide.org/cheat-sheet)
 

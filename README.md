@@ -177,4 +177,6 @@ This project is licensed under the **MIT License**.
 ### Oluwatofunmi Emmanuel Oluwaloseyi
 
 ---
+<p align="center">
 ### Thank you for engaging! If this repository helped you consider giving it a star ⭐.
+</p>

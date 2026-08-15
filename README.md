@@ -114,6 +114,7 @@ git clone https://github.com/oluwaloseyiT/README-Tutorial.git
 cd README-Tutorial
 npm install
 ```
+  > "nps install" is a command used in Node.js projects to download and configure external code libraries.
 
 ---
 

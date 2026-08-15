@@ -2,12 +2,16 @@
 
 Welcome! In this tutorial i would be walking you through step-by-step on writting a professional README.md file and understanding the markdown formatting syntax used in writing the README.
 
+---
+
 ## Table of Contents
 - [💡 Why write a README?](#intro)
 - [🛠️ Prerequisites](#prep)
 - [📚 Understand Markdown Formatting Syntax](#step1)
 - [📝 Write your README.md file](#step2)
 - [🏁 Conclusion](#end)
+
+---
 
 <a id="intro"></a>
 ## 💡 Why write a README?
@@ -16,6 +20,8 @@ A README is a text documentation that functions as a Overview (front door) expla
 
 You can write and deploy your README.md file with the project using a local directory, a terminal, and git OR you can just create one here on GitHub.
 
+---
+
 <a id="prep"></a>
 ## 🛠️ Prerequisites
 
@@ -23,6 +29,8 @@ To create a README some tools you will need are:
 - A GitHub account.
 - A GitHub Repo(Repository).
 - Git(A version control system) and a terminal.
+
+---
 
 <a id="step1"></a>
 ## 📚 Understand Markdown Formatting Syntax
@@ -43,6 +51,8 @@ Below are some major markdown formatting syntax and their descriptions.
 | Horizontal Divider | `---` or `***` | Three or more hyphens/asterisks on their own line create a horizontal rule | --- ||
 
   > For more markdown formatting syntax check out [CHEAT-SHEET](https://www.markdownguide.org/cheat-sheet)
+
+---
 
 <a id="step2"></a>
 ## 📝 Write your README.md file
@@ -146,6 +156,7 @@ For more details, check out [GitHub's guide to contributing](https://docs.github
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ``````
+---
 
 <a id="end"></a>
 ## 🏁 Conclusion
@@ -154,10 +165,16 @@ Congratulations! you now know the basics of Markdown and how to put together a c
 
 Keep this guide handy, reuse the template or upgrade to your preference, and don't be afraid to make it your own. Happy writing! 🙌
 
+---
+
 ## License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-### Made with ❤️ using Markdown
+## ✍️ Author 
+### Oluwatofunmi Emmanuel Oluwaloseyi
+
+---
+### Thank you for engaging! If this repository helped you consider giving it a star ⭐.
